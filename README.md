@@ -29,6 +29,15 @@ A simple and interactive web app built using **Streamlit** that detects whether 
 
 ---
 
+### 📊 Word Clouds
+
+#### Spam
+![Spam Word Cloud](spam_wordcloud.png)
+
+#### Ham
+![Ham Word Cloud](ham_wordcloud.png)
+
+
 ## 🛠️ How It Works
 
 1. **Preprocess** the message (lowercase, remove special characters)
