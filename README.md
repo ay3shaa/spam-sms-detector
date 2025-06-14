@@ -5,8 +5,8 @@ A simple and interactive web app built using **Streamlit** that detects whether 
 ---
 
 ## 🚀 Live Demo
-
-👉 [Click here to try the app](#)  
+  - Click below to try the app!
+  - 👉 [spam sms detector app](https://ay3shaa-spam-sms-detector-app-2kdrtn.streamlit.app/)  
 
 ---
 
